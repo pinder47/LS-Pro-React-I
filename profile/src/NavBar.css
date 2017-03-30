@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300');
+
+.navbar{
+	display: flex;
+	justify-content: center;
+	background-color: #0e205b;
+	color: white;
+	height: auto;
+	width: 100%;
+	font-family: 'Open Sans Condensed';
+	text-align: center;
+	border-radius: 0px 0px 15px 15px;
+}
+
+.title-text{
+	font-size: 72px;
+	text-transform: uppercase;
+	text-shadow: 1px 1px 1px;
+}
+
+.subtitle-text{
+	font-size: 30px;
+	text-transform: uppercase;
+	text-shadow: 1px 1px 1px;
+}
+
+.navbar-title{
+	vertical-align: center;
+	height: auto;
+	width: 50%;
+	border: -1px;
+}
+
+.navbar-item{
+	padding: 15px;
+	vertical-align: center;
+	height: auto;
+	width: 25%;
+	border: -1px;
+}
+
+a{
+	display: block;
+	font-size: 25px;
+	margin: 10px;
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+}
+
+a:visited{
+	color: white;
+}
+
+img{
+	text-align: center;
+	height: 150px;
+	width: 150px;
+	border-radius: 10px;
+}

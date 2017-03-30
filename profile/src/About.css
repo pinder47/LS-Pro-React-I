@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+.about-container{
+	width: auto;
+	text-align: justify;
+	padding: 20px;
+	color: white;
+	border-style: solid;
+	border-color: white;
+	border-radius: 20px;
+	margin: 20px;
+}
+p{
+	font-family: 'Raleway';
+}
